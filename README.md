@@ -1,11 +1,12 @@
 This is a react based web3 cryptopunks clone project. Used thirdweb framework to fetch api and implement custom punk nft
 
-Here is the screenshot of the website
+I had a bug in url of beats punk , seems like once your bug is live on blockchain it stays live for forever. Still working on fixing beats punk.
+
+Here is the screenshot of the website.
 
 ![Screenshot](https://github.com/whyyor/cyberpunks-clone/blob/main/public/screenshot.png?raw=true)
 
-
-
+==================================================================================================================================================================
 
 # Getting Started with Create React App
 
